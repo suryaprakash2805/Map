@@ -232,13 +232,9 @@ a:visited {
     font-size: 1rem;
   }
 
-  .workouts {
-    height: 50vh;
-  }
-
   .workout {
     border-radius: 2.5px;
-    padding: 1rem 1.25rem;
+    padding: 1rem 4rem;
     margin-bottom: 1.75rem;
     gap: 0.4rem 1rem;
   }
