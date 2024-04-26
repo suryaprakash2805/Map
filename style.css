@@ -236,7 +236,8 @@ a:visited {
   }
 
   .workouts {
-    height: 30vh;
+    height: auto;
+    max-height: 50vh;
   }
 
   .workout--running {
