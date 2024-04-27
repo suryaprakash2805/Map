@@ -311,4 +311,10 @@ a:visited {
   .copyright {
     font-size: 1rem;
   }
+
+  input[type='text'],
+  textarea {
+    transform: rotate(-90deg);
+    transform-origin: left top;
+  }
 }
